@@ -62,8 +62,8 @@ export const AlphabetList: React.FC<AlphabetListProps> = (props) => {
     );
   };
 
-  const onRenderItem = ({ item }: { item: IData }) => {
-    if (renderCustomItem) return renderCustomItem(item);
+  const onRenderItem = ({ section, item }: { section: SectionListData<IData>, item: IData }) => {
+    if (renderCustomItem) return renderCustomItem(section, item);
 
     return (
       <View testID="cell" style={styles.listItemContainer}>
