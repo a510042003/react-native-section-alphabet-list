@@ -1,5 +1,5 @@
 {
-  "name": "@a510042003/react-native-section-alphabet-list",
+  "name": "mm-react-native-section-alphabet-list",
   "version": "2.0.4",
   "description": "A simple React Native component that takes an array of data and renders a SectionList with alphabetically sorted data.",
   "main": "dist/index.js",
