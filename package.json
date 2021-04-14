@@ -14,8 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kieran-McIntyre/react-native-alphabet-list.git",
-    "baseUrl": "https://github.com/Kieran-McIntyre/react-native-alphabet-list"
+    "url": "git+https://github.com/a510042003/react-native-alphabet-list.git",
+    "baseUrl": "https://github.com/a510042003/react-native-alphabet-list"
   },
   "keywords": [
     "react-native",
@@ -27,8 +27,8 @@
     "custom"
   ],
   "author": {
-    "name": "Kieran McIntyre",
-    "email": "k.mcintyre98@outlook.com"
+    "name": "a510042003",
+    "email": "a510042003@hotmail.com.tw"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
